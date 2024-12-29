@@ -1,0 +1,2 @@
+from advent1_model import advent1_part1, advent1_part2
+from advent2_model import advent2_part1
